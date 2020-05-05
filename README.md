@@ -1,2 +1,1 @@
-# covid19
-covid19 data
+# nsw-covid-19
